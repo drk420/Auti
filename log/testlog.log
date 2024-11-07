@@ -1,0 +1,128 @@
+2024-11-06 13:54:44,617 - Facebook framework -INFO - framework started
+2024-11-06 13:54:56,924 - Facebook framework -INFO - framework started
+2024-11-06 13:55:17,863 - Facebook framework -INFO - framework stopped
+2024-11-06 13:58:26,790 - Facebook framework -INFO - framework started
+2024-11-06 13:58:38,644 - Facebook framework -INFO - framework stopped
+2024-11-06 14:00:43,447 - Facebook framework -INFO - framework started
+2024-11-06 14:01:14,557 - Facebook framework -INFO - framework stopped
+2024-11-06 14:02:33,327 - Facebook framework -INFO - framework started
+2024-11-06 14:03:05,063 - Facebook framework -INFO - framework stopped
+2024-11-06 14:03:25,575 - Facebook framework -INFO - framework started
+2024-11-06 14:03:51,721 - Facebook framework -INFO - framework stopped
+2024-11-06 14:06:40,674 - Facebook framework -INFO - framework started
+2024-11-06 14:07:06,871 - Facebook framework -INFO - framework stopped
+2024-11-06 14:08:43,183 - Facebook framework -INFO - framework started
+2024-11-06 14:09:11,490 - Facebook framework -INFO - framework stopped
+2024-11-06 14:11:19,206 - Facebook framework -INFO - framework started
+2024-11-06 14:11:46,094 - Facebook framework -INFO - framework stopped
+2024-11-06 14:13:12,305 - Facebook framework -INFO - framework started
+2024-11-06 14:14:01,564 - Facebook framework -INFO - framework stopped
+2024-11-06 14:15:24,391 - Facebook framework -INFO - framework started
+2024-11-06 14:15:29,008 - Facebook framework -INFO - framework stopped
+2024-11-06 14:15:50,737 - Facebook framework -INFO - framework started
+2024-11-06 14:15:54,949 - Facebook framework -INFO - framework stopped
+2024-11-06 14:16:39,595 - Facebook framework -INFO - framework started
+2024-11-06 14:16:50,039 - Facebook framework -INFO - framework stopped
+2024-11-06 14:18:22,338 - Facebook framework -INFO - framework started
+2024-11-06 14:18:26,179 - Facebook framework -INFO - framework stopped
+2024-11-06 20:33:50,462 - Facebook framework -INFO - framework started
+2024-11-06 20:34:09,742 - Facebook framework -INFO - framework stopped
+2024-11-06 20:37:20,834 - Facebook framework -INFO - framework started
+2024-11-06 20:37:25,534 - Facebook framework -INFO - framework stopped
+2024-11-06 20:37:40,310 - Facebook framework -INFO - framework started
+2024-11-06 20:37:44,441 - Facebook framework -INFO - framework stopped
+2024-11-06 20:38:04,588 - Facebook framework -INFO - framework started
+2024-11-06 20:38:08,652 - Facebook framework -INFO - framework stopped
+2024-11-06 20:38:55,712 - Facebook framework -INFO - framework started
+2024-11-06 20:39:00,184 - Facebook framework -INFO - framework stopped
+2024-11-06 20:39:23,442 - Facebook framework -INFO - framework started
+2024-11-06 20:39:28,915 - Facebook framework -INFO - framework stopped
+2024-11-06 20:41:27,116 - Facebook framework -INFO - framework started
+2024-11-06 20:41:31,868 - Facebook framework -INFO - framework stopped
+2024-11-06 20:49:07,180 - Facebook framework -INFO - framework started
+2024-11-06 20:49:11,987 - Facebook framework -INFO - framework stopped
+2024-11-06 20:50:18,475 - Facebook framework -INFO - framework started
+2024-11-06 20:50:22,962 - Facebook framework -INFO - framework stopped
+2024-11-06 20:55:59,969 - Facebook framework -INFO - framework started
+2024-11-06 20:56:04,056 - Facebook framework -INFO - framework stopped
+2024-11-06 20:57:40,691 - Facebook framework -INFO - framework started
+2024-11-06 20:57:45,107 - Facebook framework -INFO - framework stopped
+2024-11-06 21:01:38,467 - Facebook framework -INFO - framework started
+2024-11-06 21:01:42,758 - Facebook framework -INFO - framework stopped
+2024-11-06 21:03:07,164 - Facebook framework -INFO - framework started
+2024-11-06 21:03:11,212 - Facebook framework -INFO - framework stopped
+2024-11-06 21:11:31,411 - Facebook framework -INFO - framework started
+2024-11-06 21:11:36,097 - Facebook framework -INFO - framework stopped
+2024-11-06 21:12:23,131 - Facebook framework -INFO - framework started
+2024-11-06 21:12:27,083 - Facebook framework -INFO - framework stopped
+2024-11-06 21:16:54,145 - Facebook framework -INFO - framework started
+2024-11-06 21:16:58,330 - Facebook framework -INFO - framework stopped
+2024-11-06 21:40:08,066 - Facebook framework -INFO - framework started
+2024-11-06 21:40:21,202 - Facebook framework -INFO - framework stopped
+2024-11-06 21:42:20,976 - Facebook framework -INFO - framework started
+2024-11-06 21:42:24,874 - Facebook framework -INFO - framework stopped
+2024-11-06 21:42:56,167 - Facebook framework -INFO - framework started
+2024-11-06 21:43:00,114 - Facebook framework -INFO - TestCase is Startedverifylogintest
+2024-11-06 21:43:00,290 - Facebook framework -INFO - TestCase is Failedverifylogintest
+2024-11-06 21:43:03,645 - Facebook framework -INFO - TestCase is Startedverifysignuptest
+2024-11-06 21:43:49,658 - Facebook framework -INFO - TestCase is Completedverifysignuptest
+2024-11-06 21:43:49,888 - Facebook framework -INFO - framework stopped
+2024-11-06 21:45:17,245 - Facebook framework -INFO - framework started
+2024-11-06 21:45:21,751 - Facebook framework -INFO - framework stopped
+2024-11-06 21:45:52,015 - Facebook framework -INFO - framework started
+2024-11-06 21:46:41,803 - Facebook framework -INFO - framework stopped
+2024-11-06 21:47:02,182 - Facebook framework -INFO - framework started
+2024-11-06 21:47:05,444 - Facebook framework -INFO - TestCase is Startedverifylogintest
+2024-11-06 21:47:05,680 - Facebook framework -INFO - TestCase is Failedverifylogintest
+2024-11-06 21:47:09,237 - Facebook framework -INFO - TestCase is Startedverifysignuptest
+2024-11-06 21:47:54,470 - Facebook framework -INFO - TestCase is Completedverifysignuptest
+2024-11-06 21:47:54,700 - Facebook framework -INFO - framework stopped
+2024-11-06 21:49:49,388 - Facebook framework -INFO - framework started
+2024-11-06 21:49:53,558 - Facebook framework -INFO - framework stopped
+2024-11-06 21:50:21,423 - Facebook framework -INFO - framework started
+2024-11-06 21:50:25,419 - Facebook framework -INFO - TestCase is Startedverifylogintest
+2024-11-06 21:50:25,586 - Facebook framework -INFO - TestCase is Failedverifylogintest
+2024-11-06 21:50:28,647 - Facebook framework -INFO - TestCase is Startedverifysignuptest
+2024-11-06 21:51:13,724 - Facebook framework -INFO - TestCase is Completedverifysignuptest
+2024-11-06 21:51:13,968 - Facebook framework -INFO - framework stopped
+2024-11-06 21:53:59,976 - Facebook framework -INFO - framework started
+2024-11-06 21:54:09,211 - Facebook framework -INFO - framework stopped
+2024-11-06 22:01:17,762 - Facebook framework -INFO - framework started
+2024-11-06 22:01:27,132 - Facebook framework -INFO - framework stopped
+2024-11-06 22:01:42,966 - Facebook framework -INFO - framework started
+2024-11-06 22:02:31,090 - Facebook framework -INFO - framework stopped
+2024-11-06 22:02:41,479 - Facebook framework -INFO - framework started
+2024-11-06 22:02:45,999 - Facebook framework -INFO - framework stopped
+2024-11-06 22:07:55,502 - Facebook framework -INFO - framework started
+2024-11-06 22:08:43,775 - Facebook framework -INFO - framework stopped
+2024-11-06 22:08:52,368 - Facebook framework -INFO - framework started
+2024-11-06 22:08:56,089 - Facebook framework -INFO - framework stopped
+2024-11-06 22:10:51,254 - Facebook framework -INFO - framework started
+2024-11-06 22:11:02,454 - Facebook framework -INFO - framework started
+2024-11-06 22:11:51,501 - Facebook framework -INFO - framework stopped
+2024-11-06 22:28:50,468 - Facebook framework -INFO - framework started
+2024-11-06 22:29:01,140 - Facebook framework -INFO - framework stopped
+2024-11-06 22:29:27,866 - Facebook framework -INFO - framework started
+2024-11-06 22:29:33,029 - Facebook framework -INFO - framework stopped
+2024-11-06 22:29:52,979 - Facebook framework -INFO - framework started
+2024-11-06 22:29:58,101 - Facebook framework -INFO - framework stopped
+2024-11-06 22:32:11,536 - Facebook framework -INFO - framework started
+2024-11-06 22:32:16,604 - Facebook framework -INFO - framework stopped
+2024-11-06 22:33:53,924 - Facebook framework -INFO - framework started
+2024-11-06 22:33:58,813 - Facebook framework -INFO - framework stopped
+2024-11-06 22:34:51,606 - Facebook framework -INFO - framework started
+2024-11-06 22:35:01,245 - Facebook framework -INFO - framework stopped
+2024-11-06 22:37:58,015 - Facebook framework -INFO - framework started
+2024-11-06 22:38:07,995 - Facebook framework -INFO - framework stopped
+2024-11-06 22:39:49,506 - Facebook framework -INFO - framework started
+2024-11-06 22:40:37,651 - Facebook framework -INFO - framework stopped
+2024-11-06 22:40:47,734 - Facebook framework -INFO - framework started
+2024-11-06 22:41:00,879 - Facebook framework -INFO - framework stopped
+2024-11-06 22:42:52,208 - Facebook framework -INFO - framework started
+2024-11-06 22:43:02,009 - Facebook framework -INFO - framework stopped
+2024-11-06 22:44:24,936 - Facebook framework -INFO - framework started
+2024-11-06 22:44:49,026 - Facebook framework -INFO - framework stopped
+2024-11-06 22:46:44,463 - Facebook framework -INFO - framework started
+2024-11-06 22:47:04,528 - Facebook framework -INFO - framework stopped
+2024-11-06 22:47:25,200 - Facebook framework -INFO - framework started
+2024-11-06 22:47:50,914 - Facebook framework -INFO - framework stopped
